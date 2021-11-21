@@ -18,6 +18,9 @@
     <Reference Include="BankCommoditiesModels">
       <HintPath>..\bin\Debug\netcoreapp3.1\BankCommoditiesModels.dll</HintPath>
     </Reference>
+    <Reference Include="BankCommoditiesTools">
+      <HintPath>..\bin\Debug\netcoreapp3.1\BankCommoditiesTools.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
