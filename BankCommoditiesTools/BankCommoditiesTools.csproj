@@ -5,4 +5,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\Usuario\Source\Repos\BankCommodities\bin\Debug\</OutputPath>
+  </PropertyGroup>
+
 </Project>
